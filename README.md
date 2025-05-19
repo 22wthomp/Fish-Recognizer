@@ -25,10 +25,10 @@ This was a two person project for CS-436 (Artificial Intelligence 1) completed b
 - Our best performance came from EfficientNet with base parameters, We attempted to use grid search (Dense units, dropout rate, learning rate), but these models tended to overfit. This was likely due to the dataset's limited size (283 images).
 - The default configuration performed better and was selected for final use
 ## Final Model
-- Test Accuracy: 83%
-- Precision: 85%
-- Recall: 82%
-- F1: 82%
+- Test Accuracy: 94%
+- Precision: 95%
+- Recall: 93%
+- F1: 94%
 - See graphs like confusion matrix, ROC curve and Validation Curves in the presentation
 
 ## Sample Dataset
