@@ -29,7 +29,7 @@ This was a two person project for CS-436 (Artificial Intelligence 1) completed b
 - Precision: 95%
 - Recall: 93%
 - F1: 94%
-- See graphs like confusion matrix, ROC curve and Validation Curves in the presentation
+- See graphs like confusion matrix, ROC curve and Validation Curves in images folder 
 
 ## Sample Dataset
 - A small sample dataset is included, it contains:
